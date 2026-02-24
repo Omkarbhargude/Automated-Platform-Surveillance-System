@@ -1,3 +1,12 @@
+#-------------------------------------------------------------------------------------------
+#
+#  ScriptName    : Automated Platform Surveillance System
+#  Author Name   : Omkar Mahadev Bhargude
+#  Description   : This script is a periodic system monitoring + logging automation tool
+#  Date          : 24/02/2026
+#
+#--------------------------------------------------------------------------------------------
+
 import schedule
 import sys
 import os
